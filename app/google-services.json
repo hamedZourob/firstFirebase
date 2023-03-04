@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "257981851222",
-    "project_id": "firstfirebase-2a625",
-    "storage_bucket": "firstfirebase-2a625.appspot.com"
+    "project_number": "328789183367",
+    "project_id": "assigmentfire",
+    "storage_bucket": "assigmentfire.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:257981851222:android:5bd2656cf1f9a5854cfdf7",
+        "mobilesdk_app_id": "1:328789183367:android:50e47e3e2d0d0f1fb5e122",
         "android_client_info": {
           "package_name": "com.example.myapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "257981851222-6mnqm3uie30c88qnfetdrgjo0mr1f0dr.apps.googleusercontent.com",
+          "client_id": "328789183367-t83mfme26auu28p3t0ficvo89vtejmd2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDh92RZX5U2WZH5-Meg1iTilTzx_bmJRY4"
+          "current_key": "AIzaSyCaN0nKAJcqr1Z9DOtSRiBJro5hRTX8rjY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "257981851222-6mnqm3uie30c88qnfetdrgjo0mr1f0dr.apps.googleusercontent.com",
+              "client_id": "328789183367-t83mfme26auu28p3t0ficvo89vtejmd2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
